@@ -1,0 +1,1 @@
+this is a very small model checker that use an invariant check on a dining philosopher problem. Run main.py will give the result. The performance of this model checker is very bad, may take minutes to finish
